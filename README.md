@@ -1,3 +1,5 @@
+- iLO, use the "Java Applet" instead of "Java Web Start" !!!!!!!!
+
 # Javafox
 
 Java is going out of style and yet is needed to manage many different lights out management systems such as HPs iLO and such.  To be able to continue manage hardware some specific combinations of browsers and java is needed.
